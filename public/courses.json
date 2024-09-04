@@ -1,0 +1,35 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to React",
+        "instructor": "John Doe",
+        "thumbnail": "https://via.placeholder.com/100",
+        "dueDate": "2024-12-31",
+        "progress": 50,
+        "description": "Learn the basics of React, a popular JavaScript library for building user interfaces.",
+        "status": "In Progress",
+        "duration": "4 weeks",
+        "schedule": "Mondays and Wednesdays, 6 PM - 8 PM",
+        "location": "Online",
+        "prerequisites": "Basic knowledge of HTML, CSS, and JavaScript",
+        "syllabus": "Week 1: Introduction to React, Week 2: Components and Props, Week 3: State and Lifecycle, Week 4: Hooks and Advanced Topics"
+      },
+      {
+        "id": 2,
+        "title": "Advanced JavaScript",
+        "instructor": "Jane Smith",
+        "thumbnail": "https://via.placeholder.com/100",
+        "dueDate": "2024-11-30",
+        "progress": 30,
+        "description": "Dive deep into JavaScript with advanced concepts and patterns.",
+        "status": "Open",
+        "duration": "6 weeks",
+        "schedule": "Tuesdays and Thursdays, 4 PM - 6 PM",
+        "location": "Online",
+        "prerequisites": "Intermediate JavaScript knowledge",
+        "syllabus": "Week 1: Asynchronous JavaScript, Week 2: Closures and Scope, Week 3: Prototypes and Inheritance, Week 4: Design Patterns, Week 5: Modern JavaScript, Week 6: Final Project"
+      }
+    ]
+  }
+  
